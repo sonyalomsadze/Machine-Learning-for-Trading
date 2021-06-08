@@ -1,3 +1,3 @@
-# predictingfuturechange
-Machine Learning for Trading
-In this work, I will predict SecP_Bid prices bu using linear modelling as well as Random forest.
+# Machine Learning for Trading
+
+In this work, we'll predict 5 days future percent change in SecP_Bid prices by using linear modelling as well as Random forest.
